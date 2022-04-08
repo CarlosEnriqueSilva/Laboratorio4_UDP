@@ -1,0 +1,7 @@
+INFO:root:Inicio de envio de archivos
+INFO:root:Nombre archivo: test.txt
+INFO:root:Tamaño del archivo: 336 bytes
+INFO:root:Cantidad de clientes: 1
+INFO:root:Cliente 192.168.0.15
+INFO:root:Archivo entregado exitosamente a cliente: 61903
+INFO:root:Tiempo de entrega: 0.0009992122650146484
