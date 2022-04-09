@@ -126,8 +126,8 @@ class Server:
                     #c.send(hashVal.encode())
                     
     
-                    c.shutdown(socket.SHUT_RDWR)
-                    c.close()
+                  #  c.shutdown(socket.SHUT_RDWR)
+                   # c.close()
                 
         
 
